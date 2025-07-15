@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](./LICENSE) — feel free to use
 ## 📩 Connect with Me
 
 I'm always open to feedback and collaboration.  
-📧 Reach out on [LinkedIn](https://www.linkedin.com) or open an issue in this repo.
+📧 Reach out on [LinkedIn](https://www.linkedin.com)  
